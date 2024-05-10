@@ -1,0 +1,20 @@
+/*
+ to pass the command line arguments we have to provide it at the time of executing our applkication.
+ .) 
+ comsider below example where ewe passs mjltiple command line argumebts to the main function which gets accepts into 
+ the parameter of main function.
+
+ javac Command.java
+ java Command 11 Demo Marvellous PPA LB
+
+ Command line argument in C&C++
+
+ In case of c& C++ the parameter that we are passing to the function are optional 
+
+ in case of c & c++ first parqameter is (argc) which contains the number of arguments at the command line arguments.
+ 
+
+
+
+ Aptitude
+ */
